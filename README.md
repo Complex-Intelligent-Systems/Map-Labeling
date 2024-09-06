@@ -1,6 +1,6 @@
 # WIVACE 2023 Results: A Tabu Search Algorithm for the Map Labeling Problem
 
-This repository contains the results presented at the XVII International Workshop on Artificial Life and Evolutionary Computation (WIVACE 2023) in Venice, Italy, from 6-8 September 2023. The paper titled "**A Tabu Search Algorithm for the Map Labeling Problem**" was presented by the authors *Claudia Cavallaro, Vincenzo Cutello, Mario Pavone, and Francesco Zito*. It will be part of the conference proceedings that will be published by Springer in the **Communications in Computer and Information Science (CCIS) series.**
+This repository contains the results presented at the XVII International Workshop on Artificial Life and Evolutionary Computation (WIVACE 2023) in Venice, Italy, from 6-8 September 2023. The paper titled "**A Tabu Search Algorithm for the Map Labeling Problem**" was presented by the authors *Claudia Cavallaro, Vincenzo Cutello, Mario Pavone, and Francesco Zito*. It is part of the conference proceedings that is published by Springer in the **Communications in Computer and Information Science (CCIS) series.** (https://doi.org/10.1007/978-3-031-57430-6_2).
 
 *Department of Mathematics and Computer Science
 University of Catania
